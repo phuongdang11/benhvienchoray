@@ -1,0 +1,98 @@
+footer {
+    background: #0069aa;
+    color: #fff !important;
+  }
+  footer .footer_title {
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 35px 0px;
+    border: 1px solid #1a79b0;
+    border-top: 0;
+    margin: 0;
+  }
+  footer .footer_box {
+    padding: 40px;
+    border-right: 1px solid #1a79b0;
+    border-left: 1px solid #1a79b0;
+    border-bottom: 1px solid #1a79b0;
+  }
+  footer .footer_box-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  footer .footer_box-mb {
+    margin-bottom: 30px;
+  }
+  footer .footer_box-text {
+    color: #d4e0eb;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  footer .footer_box-text i {
+    margin-right: 10px;
+  }
+  footer .flex-center {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  footer .p-footer {
+    padding: 20px;
+  }
+  footer .p-footer1 {
+    padding-top: 20px;
+    padding-left: 5px;
+  }
+  footer .footer_box {
+    padding: 40px;
+    border-right: 1px solid #1a79b0;
+    border-left: 1px solid #1a79b0;
+    border-bottom: 1px solid #1a79b0;
+  }
+  footer .footer_box .line-f {
+    color: white;
+    margin: 0 10px;
+  }
+  footer .p-footer i {
+    color: white;
+    padding: 10px;
+    background-color: #0189c5;
+    border-radius: 50%;
+  }
+  footer .fab, footer .far {
+    font-weight: 400;
+  }
+  footer .fab {
+    font-family: "Font Awesome 5 Brands";
+  }
+  footer .p-footer a + a {
+    margin-left: 10px;
+  }
+  footer a {
+    color: #fff;
+    font-size: 14px;
+  }
+  footer ul li {
+    list-style: none;
+  }
+  footer .footer_box .item {
+    color: white;
+    margin-bottom: 10px;
+  }
+  footer span {
+    font-size: 14px;
+  }
+  ul li a:hover{
+    color: white;
+    text-decoration: none;
+  }
